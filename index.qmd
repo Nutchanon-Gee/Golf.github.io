@@ -1,0 +1,13 @@
+---
+title: "Golf's Quarto Website"
+author: "Nutchanon Chaiyaratana"
+format:
+  html:
+    theme: journal
+    toc: true
+---
+
+# Hello, World!
+
+Welcome to my Quarto website.
+
